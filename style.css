@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #e9edc9;
+}
+
+#main-app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 30%;
+    padding: 30px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #3d405b;
+    border-radius: 10px;
+    background-color: #f4f1de;
+}
+
+h1 {
+    font-family: "Handlee", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p {
+    font-family: "Comic Relief", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+form {
+    margin-bottom: 20px;
+}
